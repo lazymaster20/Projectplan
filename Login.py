@@ -4,7 +4,7 @@ from tkinter import messagebox
 page = tk.Tk()
 page.title("login form")
 page.geometry("340x500")
-page.configure(bg='#333333')
+page.configure(bg='#444444')
 def login():
     username = "aru"
     password = "12345"
